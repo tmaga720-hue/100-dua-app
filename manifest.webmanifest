@@ -1,1 +1,12 @@
-{"name":"100 дуа из Корана и Сунны","short_name":"100 дуа","start_url":"./index.html","display":"standalone","background_color":"#f3f7f3","theme_color":"#176b45","icons":[]}
+{
+  "name": "100 дуа из Корана и Сунны",
+  "short_name": "100 дуа",
+  "description": "Карманная книга полезных молитв",
+  "lang": "ru",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f7f4",
+  "theme_color": "#176b45"
+}
