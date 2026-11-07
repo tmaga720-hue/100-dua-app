@@ -1,4 +1,4 @@
-const CACHE='dua-app-v2';
+const CACHE='dua-app-v3';
 const FILES=['./','./index.html','./manifest.webmanifest','./duas.pdf'];
 self.addEventListener('install',event=>{
   event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(FILES)).then(()=>self.skipWaiting()));
